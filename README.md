@@ -1,7 +1,7 @@
 # Machine-Learning-Projects-with-TensorFlow-2.0
 Supercharge your Machine Learning skills with Tensorflow 2
 
-This is the code repository for [Machine Learning Projects with TensorFlow 2.0[Video]](Website), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Machine Learning Projects with TensorFlow 2.0[Video]](https://www.packtpub.com/data/machine-learning-projects-with-tensorflow-2-0-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 
 
@@ -41,10 +41,10 @@ Hardware Requirements: Modern laptop or desktop <br/>
 
 
 ## Related Products
-* [JavaScript Essentials for Modern Web Development [Video]](https://www.packtpub.com/web-development/javascript-essentials-for-modern-web-development-video)
+* [Qlik Sense Recipes [Video]](https://www.packtpub.com/data/qlik-sense-recipes-video)
 
 
-* [Ionic: Hybrid Mobile App Development](https://www.packtpub.com/application-development/ionic-hybrid-mobile-app-development)
+* [Architecting Cloud Computing Solutions On Microsoft Azure [Video]](https://www.packtpub.com/web-development/architecting-cloud-computing-solutions-on-microsoft-azure-video)
 
 
 * [Ionic 4 Projects [Video]](https://www.packtpub.com/mobile/ionic-4-projects-video)
