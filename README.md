@@ -30,10 +30,12 @@ This course is for developers, data scientists and ML engineers who now want to 
 ### Technical Requirements
 This course has the following requirements:<br/>
 Understanding of TensorFlow
-Software Requirements: Operating system: any graphical OS: Windows or Linux preferably, MacOS
-●        Browser: anything that can run on the OS well.
-●        Jupyter, Latest Version
-●        Python 3.x, 3.6 or 3.7 preferably<br/>
+
+Software Requirements: Operating system: any graphical OS: Windows or Linux preferably, MacOS <br/>
+       Browser: anything that can run on the OS well.<br/>
+       Jupyter, Latest Version <br/>
+       Python 3.x, 3.6 or 3.7 preferably<br/>
+
 Hardware Requirements: Modern laptop or desktop <br/> 
 
 
